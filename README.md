@@ -1,2 +1,0 @@
-# EcommerceBackendTest
-For Test purpose
